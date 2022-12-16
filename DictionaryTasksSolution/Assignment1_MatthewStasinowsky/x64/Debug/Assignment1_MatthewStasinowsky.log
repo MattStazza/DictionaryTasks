@@ -1,0 +1,13 @@
+﻿  Assignment1_MatthewStasinowsky.cpp
+C:\Users\Ninja\Desktop\Programming\C++ Projects\2022 Semester 1\Object Oriented Programming - CSP2104\Assignments\Assignment 1 [100%]\Assignment1_MatthewStasinowsky\Assignment1_MatthewStasinowsky\Assignment1_MatthewStasinowsky.cpp(225,5): warning C4551: function call missing argument list
+C:\Users\Ninja\Desktop\Programming\C++ Projects\2022 Semester 1\Object Oriented Programming - CSP2104\Assignments\Assignment 1 [100%]\Assignment1_MatthewStasinowsky\Assignment1_MatthewStasinowsky\Assignment1_MatthewStasinowsky.cpp(355,16): warning C4305: 'argument': truncation from 'int' to 'const _Elem'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\Ninja\Desktop\Programming\C++ Projects\2022 Semester 1\Object Oriented Programming - CSP2104\Assignments\Assignment 1 [100%]\Assignment1_MatthewStasinowsky\Assignment1_MatthewStasinowsky\Assignment1_MatthewStasinowsky.cpp(355,27): warning C4309: 'argument': truncation of constant value
+C:\Users\Ninja\Desktop\Programming\C++ Projects\2022 Semester 1\Object Oriented Programming - CSP2104\Assignments\Assignment 1 [100%]\Assignment1_MatthewStasinowsky\Assignment1_MatthewStasinowsky\Assignment1_MatthewStasinowsky.cpp(331,10): warning C4101: 'begin': unreferenced local variable
+C:\Users\Ninja\Desktop\Programming\C++ Projects\2022 Semester 1\Object Oriented Programming - CSP2104\Assignments\Assignment 1 [100%]\Assignment1_MatthewStasinowsky\Assignment1_MatthewStasinowsky\Assignment1_MatthewStasinowsky.cpp(331,17): warning C4101: 'end': unreferenced local variable
+C:\Users\Ninja\Desktop\Programming\C++ Projects\2022 Semester 1\Object Oriented Programming - CSP2104\Assignments\Assignment 1 [100%]\Assignment1_MatthewStasinowsky\Assignment1_MatthewStasinowsky\Assignment1_MatthewStasinowsky.cpp(331,22): warning C4101: 'lineNumber': unreferenced local variable
+C:\Users\Ninja\Desktop\Programming\C++ Projects\2022 Semester 1\Object Oriented Programming - CSP2104\Assignments\Assignment 1 [100%]\Assignment1_MatthewStasinowsky\Assignment1_MatthewStasinowsky\Assignment1_MatthewStasinowsky.cpp(209): warning C4715: 'ValidateInteger': not all control paths return a value
+  Assignment1_MatthewStasinowsky.vcxproj -> C:\Users\Ninja\Desktop\Programming\C++ Projects\2022 Semester 1\Object Oriented Programming - CSP2104\Assignments\Assignment 1 [100%]\Assignment1_MatthewStasinowsky\x64\Debug\Assignment1_MatthewStasinowsky.exe
